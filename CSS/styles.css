@@ -68,7 +68,7 @@ table{
     text-decoration: none;
 }
 
-@media (max-width:60px){
+@media (max-width:200px){
     .row{
         -webkit-flex-direction:colum;
         flex-direction: column;
