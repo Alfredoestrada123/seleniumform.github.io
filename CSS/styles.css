@@ -68,9 +68,13 @@ table{
     text-decoration: none;
 }
 
-@media (max-width: 80px){
-    .row{
-        -webkit-flex-direction:colum;
-        flex-direction: column;
-    }
+@media screen and (max-device-width : 480px) {
+
+        #row{
+            display:none;
+            }
+
+                #columCenter{
+               text-align:center;
+               }
 }
