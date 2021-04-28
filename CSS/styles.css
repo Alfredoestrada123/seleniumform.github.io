@@ -68,7 +68,7 @@ table{
     text-decoration: none;
 }
 
-@media screen and (max-width: 100px) {
+@media screen and (max-width: 1080px) {
       .row{
                            width:100%;
                            }
