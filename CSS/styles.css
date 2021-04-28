@@ -69,7 +69,7 @@ table{
 }
 
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 500px) {
     body {
         background-color: lightblue;
     }
