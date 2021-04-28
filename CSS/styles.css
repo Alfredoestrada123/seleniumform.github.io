@@ -68,9 +68,8 @@ table{
     text-decoration: none;
 }
 
-
-@media screen and (max-width:600px){
-	body {
-		font-size:80%; 
-	} 
+@media only screen and (max-width: 720px) {
+    body {
+        background-color: lightblue;
+    }
 }
