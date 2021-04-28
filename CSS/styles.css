@@ -68,13 +68,8 @@ table{
     text-decoration: none;
 }
 
-@media screen and (max-device-width : 720px) {
-
-        .row{
-            display:none;
-            }
-
-                .columCenter{
-               text-align:auto;
-               }
+@media screen and (max-width: 800px) {
+      .row{
+                           width:100%;
+                           }
 }
