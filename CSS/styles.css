@@ -70,11 +70,11 @@ table{
 
 @media screen and (max-device-width : 480px) {
 
-        #row{
+        .row{
             display:none;
             }
 
-                #columCenter{
-               text-align:center;
+                .columCenter{
+               text-align:auto;
                }
 }
